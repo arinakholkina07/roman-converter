@@ -27,19 +27,18 @@ No external dependencies required. Python 3.10+ with Tkinter only.
 
 ## Project Structure
 
-roman-converter/
-├── main.py              # Entry point
-├── gui.py               # Tkinter GUI
-├── converter.py         # Conversion algorithms
-├── learning.py          # Learning session logic
-├── validation.py        # Input validation
-├── requirements.txt     # No external dependencies
-├── setup.py             # Package configuration
-├── screenshots/         # Application screenshots
-├── LICENSE              # MIT License
-├── Отчет_по_курсовой_работе_ХолкинаАВ_БИВ252.pdf
-├── Руководство пользователя Холкина Арина БИВ252.pdf
-└── Техническое задание на курсовую работу Холкина Арина БИВ252.docx
+- `main.py` - Entry point
+- `gui.py` - Tkinter GUI
+- `converter.py` - Conversion algorithms
+- `learning.py` - Learning session logic
+- `validation.py` - Input validation
+- `requirements.txt` - No external dependencies
+- `setup.py` - Package configuration
+- `screenshots/` - Application screenshots
+- `LICENSE` - MIT License
+- `Отчет_по_курсовой_работе_ХолкинаАВ_БИВ252.pdf`
+- `Руководство пользователя Холкина Арина БИВ252.pdf`
+- `Техническое задание на курсовую работу Холкина Арина БИВ252.docx`
 
 ## How It Works
 
